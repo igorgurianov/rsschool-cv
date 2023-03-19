@@ -2,4 +2,4 @@
 
 ## Link to a CV:
 
-- [Check out Igor's CV](https://GITHUB-USERNAME.github.io/rsschool-cv/)
+- [Check out Igor's CV](https://igorgurianov.github.io/rsschool-cv/)
